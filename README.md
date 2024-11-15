@@ -7,9 +7,9 @@ Thank you for visiting my **Portfolio**, crafted as a Single Page Application (S
 - To elevate the user experience, I integrated Framer Motion for fluid animations and React Router DOM for dynamic navigation, crafting a single-page application that feels expansive and engaging.
 
 Website Animations :battery:
-![Hamburger Animation](./src/assets/images/project4/hamburger.gif)
 ![Navbar Animation](./src/assets/images/project4/navbar.gif)
 ![Project Showcase Scroll](./src/assets/images/project4/projectShowcase.gif)
+![Hamburger Animation](./src/assets/images/project4/hamburger.gif)
 
 ## Core Features :star2:
 - **Interactive Animations**: Using Framer Motion, I incorporated smooth, visually engaging animations and SVG effects to maintain a sleek, professional feel that captures attention without overwhelming the user.
