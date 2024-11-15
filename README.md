@@ -6,10 +6,10 @@ Thank you for visiting my **Portfolio**, crafted as a Single Page Application (S
 - As a capstone to my bootcamp journey, the site combines modern web design with intuitive navigation, aiming to leave a lasting impression on potential employers and collaborators.✨
 - To elevate the user experience, I integrated Framer Motion for fluid animations and React Router DOM for dynamic navigation, crafting a single-page application that feels expansive and engaging.
 
-In-game screenshots :framed_picture:
-![Landing Page](./src/assets/images/project4/screenshot2.png)
-![Sidebar Menu Screen](./src/assets/images/project4/screenshot3.png)
-![Project Showcase Page](./src/assets/images/project4/screenshot5.png)
+Website Animations :battery:
+![Hamburger Animation](./src/assets/images/project4/hamburger.gif)
+![Navbar Animation](./src/assets/images/project4/navbar.gif)
+![Project Showcase Scroll](./src/assets/images/project4/projectShowcase.gif)
 
 ## Core Features :star2:
 - **Interactive Animations**: Using Framer Motion, I incorporated smooth, visually engaging animations and SVG effects to maintain a sleek, professional feel that captures attention without overwhelming the user.
@@ -53,12 +53,6 @@ I meticulously planned this project to ensure smooth development, setting milest
 - State Management: React hooks like useState, useEffect, and useRef for dynamic component interaction
 - Scrolling & Effects: scrollYProgress, useTransform, and targetRef for dynamic vertical and horizontal scrolling experiences
 - Version Control: Git and GitHub for managing and tracking project changes
-
-## Favourite Tech from the Project :battery:
-
-![](./src/assets/images/project4/hamburger.gif)
-![](./src/assets/images/project4/navbar.gif)
-![](./src/assets/images/project4/projectShowcase.gif)
 
 ## Lessons Learned :memo:
 - **Power of Minimalist Design:** A clean, minimalist interface shifts focus to the showcased content, appealing to recruiters and establishing a professional impression.
