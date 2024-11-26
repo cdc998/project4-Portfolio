@@ -214,7 +214,7 @@ export default function ProjectTwoPage() {
                     <ul>
                         <li>Built functions to manage deck creation, card shuffling, and drawing.</li>
                         <li>Implemented win/loss logic that considers special conditions like busting, blackjack, and pushes.</li>
-                        <li>Developed the dealer’s automated decision-making to "hit" or "stand" according to the standard rules.</li>
+                        <li>Developed the dealer's automated decision-making to "hit" or "stand" according to the standard rules.</li>
                     </ul>
                     User Interface Development:<br />
                     <ul>
